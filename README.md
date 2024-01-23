@@ -3,7 +3,7 @@
 
 Itch.io link:
 [Play here](https://maor55.itch.io/week-4-question-a)
-
+ 
 I have modified the scene to have the ship with three healthpoints, meaning it wont destroy on the first hit, but on three (which is also changeable).<br/>
 A second change I made, was to make the velocity vectors of the enemy spaceships have a random value on the xAxis, meaning they won't be spawning and moving only downwards, but also randomly left and right. <br/><br/>
 The scripts that I have added are in the Assets/Scripts/MAOR_TASK_SCRIPTS directory, which is containing two scripts: <br/><br/>
